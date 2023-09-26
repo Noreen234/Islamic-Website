@@ -31,7 +31,7 @@
 
   Contains the main content of the webpage.
 
-  Includes headings <'h1'> and <'h3'>, paragraphs (<'p'>), an image (<'img'>), and styled <'div'> elements.
+  Includes headings <'h1'> and <'h3'>, paragraphs (p), an image (<'img'>), and styled <'div'> elements.
 
 - Content:
 
