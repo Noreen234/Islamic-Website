@@ -17,7 +17,7 @@
 
   The <!DOCTYPE html> declaration specifies the HTML5 standard.
 
-  The <html> element defines the root of the HTML document, with the lang attribute set to "en" for English.
+  The <'html'> element defines the root of the HTML document, with the lang attribute set to "en" for English.
 
 - Head Section:
 
@@ -31,7 +31,7 @@
 
   Contains the main content of the webpage.
 
-  Includes headings (h1 and h3), paragraphs (<p>), an image (<img>), and styled div elements.
+  Includes headings <'h1'> and <'h3'>, paragraphs (<'p'>), an image (<'img'>), and styled <'div'> elements.
 
 - Content:
 
